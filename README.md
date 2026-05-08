@@ -27,8 +27,10 @@ The math closes because the operator projects the energy density directly onto t
 
 ## Run It
 
+```
 pip install numpy scipy
 python resonant_table_engine.py
+```
 
 ---
 
